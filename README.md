@@ -31,7 +31,7 @@ You can install OpenCV using pip:
 
 To use this project, you need to have a cartridge case image file named Cartridge_Cases.png in the same directory as the script. You can also change the image path in the code if you want to use a different file name or location.
 
-Example Output
+Output:
 The script allows you to mask different parts of the cartridge case image by specifying the contours. Here’s an example of how you might use it:
 
 - Breech-face Impression (Red): To mask the breech-face impression in red, subtract Contour 7 from Contour 5. (First Enter Contour Index 5 Then Enter Contour Index 7)
