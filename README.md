@@ -59,6 +59,8 @@ After running the script with these inputs, you’ll see the image with the spec
 10. https://pyimagesearch.com/2021/01/19/image-masking-with-opencv/
 
 
+
 Accesss Full Report: 
+
 [Data Scientist (207729) Assignment Report.pdf](https://github.com/mohammedtareeq786/Computer_Vision_Project/files/13942968/Data.Scientist.207729.Assignment.Report.pdf)
 
